@@ -1,0 +1,21 @@
+body {
+	background:lightgreen;
+	font-family:Comic Sans, cursive;
+}
+
+.assignment {
+	display:flex;
+	padding:10px;
+	margin:10px;
+	background-color: lightblue;
+}
+
+.assignment image{
+	width:200px;
+	padding:10px;
+}
+
+h1 {
+	color:darkred;
+	text-align:center;
+}
